@@ -7,6 +7,7 @@ if (age < 18) {
     alert("Access Granted");
 }
 
+
 //Task2
 let number = prompt("Zəhmət olmasa dörd rəqəmli ədəd daxil edin:");
 console.log(+number.charAt(0) + +number.charAt(1) + +number.charAt(2) + +number.charAt(3));
